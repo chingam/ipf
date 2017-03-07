@@ -1,6 +1,5 @@
-/.idea
 /target
 /tomcat.8080
-/id_file
-/ipf-spring-boot.iml
 /ipf.iml
+/ipf-spring-boot.iml
+/.idea
